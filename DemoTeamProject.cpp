@@ -6,5 +6,6 @@
 int main()
 {
     std::cout << "Hello World!\n"; //First iteration Beula
+    std::cout << "Hello Beula\n";//First iteration Samuel
 
 }
